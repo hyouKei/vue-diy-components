@@ -1,4 +1,4 @@
-## 组件
+## Components
 
 - vue-drawboard 图形涂鸦组件
 
